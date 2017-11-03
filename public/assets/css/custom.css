@@ -1,0 +1,32 @@
+.fs12 {
+	font-size: 12px !important;
+}
+.fs11 {
+	font-size: 11px !important;
+}
+.cl-red {
+  color: #c70f19;
+}
+.text-small {
+  font-size: 11px;
+  color: #666;
+}
+.text-italic {
+  font-style: italic;
+}
+.show {
+  width: 100% !important;
+}
+.btn-main {
+  background: #056839;
+  background-color: #056839;
+  border: 1px solid #056839;
+  color: #fff;
+}
+.btn-main:hover,
+.btn-main:focus {
+  background: #036134;
+  background-color: #036134;
+  border: 1px solid #036134;
+  color: #fff !important;
+}
